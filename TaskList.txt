@@ -1,0 +1,16 @@
+Completed:
+1. Install nltk,scikit-learn
+
+TODO:
+1. Sent_tokenize
+2. Word_tokenize
+3. POS Tag
+4. TF-IDF
+5. Fill-in-the-blanks based on TF-IDF
+
+6. Spell-checker
+7. OCR
+
+8. Reverse - Answer the questions (Analyze & Decide)
+
+9. ML - Classification (K-Means, K-NN)
